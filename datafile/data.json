@@ -1,0 +1,517 @@
+[
+    {
+        "id": 1,
+        "name": "Aalto Acoustics Lab",
+        "description": "It is a multidisciplinary research centre of the Aalto University. The research and teaching focus on audio processing and spatial sound technologies. Some of the keywords are: Acoustics, Audio processing, Electronics/Telecommunications, Spatial sound technologies."
+    },
+    {
+        "id": 2,
+        "name": "Aalto Electronics ICT",
+        "description": "It is an infrastructure for research and education in the fields of electromagnetics and material studies, electronic circuit design and microelectronics, radio science and engineering, and space science and technology.Some of the keywords are: Electromagnetics, Electronics/Telecommunications, Space"
+    },
+    {
+        "id": 3,
+        "name": "Aalto Ice Tank",
+        "description": "Aalto Ice Tank is a multipurpose basin ideally suited for testing ships and other maritime structures in ice conditions.Some of the keywords are: Ice Load, Marine structures, Marine technology, Sea ice, Ships."
+    },
+    {
+        "id": 4,
+        "name": "Aalto Industry and Innovation Infrastructure (i3) - Aalto i3",
+        "description": "Aalto Industry and Innovation Infrastructure is for students, researchers and companies to innovate and co-create smart, connected products and services. Some of the keywords are: 3D-printing, Build environment, Civil engineering, Concrete, Construction, Energy, Entrepreneurship, Innovation, IoT, Metal, Minerals, Mobility, Pavement, Production, Structure, Urban environment."
+    },
+    {
+        "id": 5,
+        "name": "Aalto Neuroimaging Infrastructure",
+        "description": "Aalto NeuroImaging Infrastructure (ANI) is a research-dedicated infrastructure in human neuroimaging. Some of the keywords are: Functional magnetic resonance, MEG, Magnetoencephalography, Navigated transcranial magnetic, Neuroimaging, Neurosciences, fMRI, nTMS"
+    },
+    {
+        "id": 6,
+        "name": "Aalto NextG",
+        "description": "Aalto NextG is an infrastructure supporting research on future mobile networks. Current research focuses on developing Advanced radio communication systems and internet technologies for 5th generation mobile communication systems and beyond.Some of the keywords are: 5G, 6G, Advanced radio communications, Electronics/Telecommunications, IoT, Network protocols, Software"
+    },
+    {
+        "id": 7,
+        "name": "Aalto Studios",
+        "description": "Aalto Studios is the newest piece of university wide infrastructure at Aalto University. We bring together designers, filmmakers, youtubers, game developers, communicators, performing artists, educators, angel investors, public-sector operators… anyone who has an interest in using and exploring media platforms for their studies and research. Design, Digitalization, Fast prototyping multimedia, Virtual reality. "
+    },
+    {
+        "id": 8,
+        "name": "Aalto Design Factory",
+        "description": "Aalto University Design Factory is a platform for co-creation across disciplinary, organisational and even geographical boundaries. Born as one of the first physical manifestations of Aalto University, a network of over 20 Design Factories across the globe has been formed to support reimagining higher education around product development. Design, Product development, Prototyping."
+    },
+    {
+        "id": 9,
+        "name": "Aalto Bioeconomy Infrastructure",
+        "description": "The Bioeconomy Research Infrastructure contains the selected research infrastructures at the School of Chemical Engineering for development of chemicals, fuels, and other materials from renewable biomass utilizing biotechnical, chemical, thermal, and catalytic processing technologies. Various refining processes are also used to develop biopolymers and fibre and composite products. Bio-based materials, Biomass biorefinery, Digitalizaation, Materials, Recycling, Scale-up"
+    },
+    {
+        "id": 10,
+        "name": "Aalto Metsähovi Radio Observatory",
+        "description": "Metsähovi Radio Observatory is the only astronomical radio observatory in Finland. Metsähovi operates multiple instruments for studying the universe in radio frequencies, including active galaxies, the Sun, and rotation of the Earth. Metsähovi is also the only place in Finland, and one of the few in the world, where students can study and practice making radio-astronomical observations hands-on. Metsähovi hosts researchers and students from different universities and departments, and from the Finnish Centre for Astronomy with ESO. Astronomy, Observation, Radio, Radioastronomy, Radiotelescope, Sun."
+    },
+    {
+        "id": 11,
+        "name": "Aalto National Standards Laboratory",
+        "description": "The National Standards Laboratory of Aalto (NSL) focuses on optical radiation measurements at the highest level of accuracy. VTT MIKES Metrology has designated Metrology Research Institute of Aalto as the National Standards Laboratory of Finland for optical quantities. The laboratory is thus responsible for the realization and the maintenance of optical quantities, such as spectral irradiance, luminous flux, and spectral transmittance, in Finland. The National Standards Laboratory offers traceability for Finnish and international customers through its various calibration services, and constantly develops its measurement infrastructure to reach lower measurement uncertainties and to offer new measurement services. Characterization, Optical, Photometry, Radiometry, Spectrophometry."
+    },
+    {
+        "id": 12,
+        "name": "Aalto OtaNano",
+        "description": "OtaNano offers a wide variety of fabrication processes and equipment for micro- and nanostructures. The facilities cover a comprehensive range of imaging and characterisation equipment, including electron microscopy, nanomicroscopy, and x-ray scattering devices. Key activities include ultra-low-temperature conductivity and high-frequency measurements. OtaNano is a top-level learning environment for young researchers and an international centre for scientific research. The facilities are important for scientists as well as for high-tech companies working with micro- and nano-technology applications. OtaNano is a national platform to develop innovative enabling technologies and apply them to practical micro- and nano-systems. OtaNano enjoys a rare position among Finnish research infrastructures for having over twenty years of international infrastructure cooperation through European large-scale infrastructure projects. OtaNano is an open access research infrastructure, operated by Aalto University and VTT, and is available for academic and commercial users internationally. Characterization, cryogenics, MEMS, Materials, NEMS, Nanoelectronics, Nanophotonics, Optoelectronics, Quantum Technology."
+    },
+    {
+        "id": 13,
+        "name": "Aalto Raw Materials Research Infrastructure (RAMI)",
+        "description": "RAMI Raw Materials is a national, joint research infrastructure operated with Geological Survey of Finland and Technical Research Centre of Finland VTT, concentrating on inorganic material research needed in the circular economy. At Aalto University, the focus is on process, characterisation, and recycling of primary and secondary raw materials, and on the search for new cutting-edge material replacements, for e.g., future sustainable technologies. Functional, Inorganic, Metal raw, Characterization, Ciruclar economy, Sustainable technologies"
+    },
+    {
+        "id": 14,
+        "name": "TUDa Additive Manufacturing Centre (AMC)",
+        "description": "The aim of the new AMC building is to create a suitable environment for the utilization of current research results by transferring them to industry and teaching. For this purpose, from January 2023, the activities and expertise of TU Darmstadt in the field of additive manufacturing and the digital transformation of mechanical engineering will be bundled and made available through training courses and workshops for manufacturing companies, development and manufacturing service providers and teachers. Thanks to the holistic mapping of the additive process chain, interdisciplinary questions in particular can be dealt with and the needs of the industry can be answered in a targeted manner. Mechanical engineering"
+    },
+    {
+        "id": 15,
+        "name": "TUDa Centre for Industrial Productivity (CIP)",
+        "description": "Process Learning Factory - The process learning factory CiP is an innovative training and further education centre in which the most important methods for the design of efficient production processes have been taught since May 2007. Production 4.0"
+    },
+    {
+        "id": 16,
+        "name": "TUDa Competence Centre for Materials Characterisation",
+        "description": "In the frame of the Material Forschungsverbund Rhein-Main (MatFoRM) we also have a strong cooperation with other groups form different departments like the Materials Testing Laboratory Darmstadt (Staatliche Materialprüfungsanstalt, MPA) and the Fraunhofer-Institute for Durability and System Reliability (LBF). MatFoRM-TUD is a network in material sciences and material technologies in the Rhein-Main region. This network opens the door to university research and development activities in material science and application. MatFoRM-TUD offers interdisciplinary research within the complete spectrum: from the material to the component and to the system. Materials Characterization."
+    },
+    {
+        "id": 17,
+        "name": "TUDa Delta Reallaboratory",
+        "description": "The Darmstadt Energy Laboratory for Technologies in Application (DELTA) acts as a showcase for the urban energy transition to demonstrate interacting energy-optimized quarters. The DELTA real-life laboratory is intended to demonstrate that the technically proven potential for increasing energy efficiency and flexibility in urban districts can be implemented economically and that these are also accepted by society. For this purpose, methods are to be tested and further developed in order to bring successful technical pilot projects into broad application. Elementary for this is the development of innovative (cooperative) business models.  Electrical, Living lab, Smart grids."
+    },
+    {
+        "id": 18,
+        "name": "TUDa Laboratory for Transmission Electron Microscopy (TEM)",
+        "description": "This laboratory is equipped with several highly sensitive and high-performance electron microscopes for use in material and geoscience. Materials characterization"
+    },
+    {
+        "id": 19,
+        "name": "TUDa The ETA Factory;Centre for Energy Efficiency, Technology and Application",
+        "description": "In the ETA factory an exemplary production process chain from the field of metal processing forms the basic structure of the research. The efficiency potential of the overall system is researched and demonstrated by linking the production processes, the supply technology and building services technology as well as the building and its structure. Energy efficiency, Mechanical engineering, Production 4.0"
+    },
+    {
+        "id": 20,
+        "name": "TUDa The Hessian Centre for Artificial Intelligence (Hessian AI)",
+        "description": "The Hessian Centre for Artificial Intelligence (Hessian.AI) pursues the goal of conducting excellent basic research with concrete practical relevance and to promote transfer to industry and society. AI"
+    },
+    {
+        "id": 21,
+        "name": "TUDa The Lichtenberg high-performance computer at the TU Darmstadt",
+        "description": "The series of Lichtenberg high-performance computers provide computing resources for researchers from academia and public research facilities in Germany. HPC"
+    },
+    {
+        "id": 22,
+        "name": "Polito Advanced Joining Technologies at Politecnico di Torino (J-TECH@PoliTO)",
+        "description": "Joining materials and processes Modelling of joints Testing and monitoring of joined components. Materials"
+    },
+    {
+        "id": 23,
+        "name": "Polito Centre for Automotive Research and Sustainable Mobility;Hybrid/Electric powertrain and Vehicle Laboratory (CARS-HEV@PoliTO)",
+        "description": "stimulate multidisciplinary research, training and technology transfer in the automotive and Intelligent Transport Systems (ITS) sectors. The complexity and rapid evolution of technologies applied to automotive and Intelligent Transport Systems (ITS) requires a heterogeneous set of skills, developed in different disciplines. Starting from this assumption, the CARS Centre aims to build, within the Politecnico di Torino, an environment in which multidisciplinary research and training activities can contribute to the creation of innovation and technology transfer, in an area with a strong industrial and entrepreneurial vocation that has been the cradle of the national automotive industry. Automotive, Computing, Electronics, ITS."
+    },
+    {
+        "id": 24,
+        "name": "Polito CO2 Circle Lab (CCL)",
+        "description": "The CO 2 Circle Lab research infrastructure (co-financed by Regione Piemonte, POR FESR Piemonte 2014-2020, ASSE I, Azione I.1.a.1.5, “INFRA-P - Sostegno alle infrastrutture di ricerca considerate critiche/cruciali per i sistemi regionali”) addresses the need for breakthroughs which could feed the innovation cycle in sustainable business models. We are engaged in creating carbon-neutral integrated production concepts from greenhouse gases including carbon dioxide to added-value products. The constellation of versatile and Advanced facilities, including pre-existing facilities made available, embraced by our infrastructure offers a platform of flexible techniques for Carbon Capture and Storage (CCS) and energy generation/accumulation. To offset the cost associated with CCS, there is growing interest in identifying commercially viable end-use opportunities for the captured carbon-based feedstock. In this respect, our infrastructure offers wide competence in carbon reuse economy, integrating the management/accumulation of renewable sources, modelling of energetic strategies with the application of innovative biotechnological, (photo)electrochemical and thermochemical approaches. We are inspired by a challenge-driven, solution-oriented and trans-disciplinary perspective to support you with the most suitable technical solutions. Recycling, Renewable energy, Sustainable technologies."
+    },
+    {
+        "id": 25,
+        "name": "Polito e-DRIVE test infrastructure for automotive and aerospace applications (TEST-EDRIVE)",
+        "description": "dedicated to testing high-performance electric motors and drives for electrification in the aerospace, automotive and mechatronics sectors for Advanced production systems. Examples of applications are: More-Electric-Aircraft – on board generators, actuators and inverters Electric Vehicles – electric power trains, power and control subsystems, wired and wireless chargers Industrial and manufacturing applications – drives and converters. Energy efficiency"
+    },
+    {
+        "id": 26,
+        "name": "Polito Energy Centre;Global Real Time Simulation Laboratory (G-RTSLab@PoliTO)",
+        "description": "is an internationally interconnected lab for Real-Time simulation (RTS). It is active in studying the role of electricity in energy transition, with a focus on emerging smart grids (distribution) and super grids (transmission) aiming to provide secure and affordable electricity to everyone. Electrical, Real-time co-simulation, smart grids, super grids."
+    },
+    {
+        "id": 27,
+        "name": "Polito HPC4AI",
+        "description": "a federated competence centre on High-Performance Computing (HPC), Artificial Intelligence (AI) and Big Data Analytics (BDA), able to collaborate with SMEs of the territory and contribute to improve their ability to innovate on data-based technologies and applications. AI, Data processing, HPC."
+    },
+    {
+        "id": 28,
+        "name": "Polito IAM@PoliTO",
+        "description": "to create a multidisciplinary Additive Manufacturing research platform with the aim of dealing with and overcoming the open challenges, in terms of machines, materials and applications, and of contributing, together with other industrial actors, in the development of new generation systems destined for final production from the Industry 4.0 viewpoint. Mechanical engineering."
+    },
+    {
+        "id": 29,
+        "name": "Polito Innovative Health Technology Park (PAsTISs)",
+        "description": "inter-university centre for the development of innovative technologies for health and well-being. Bio-Robotics, Technological applications for health."
+    },
+    {
+        "id": 30,
+        "name": "Polito PhotoNext",
+        "description": "Optical fibre ultra-high-speed communication systems, Optical sensors, and Optical components for industrial applications. Micro-nanoelectronics, Photonic technologies, technological applications for health."
+    },
+    {
+        "id": 31,
+        "name": "Polito Piemonte Quantum Enabling Technology (PiQuET)",
+        "description": "Quantum Enabling Technology. developing quantum micro and nano technology processes. nano and quantum technologies, materials characterization, micro."
+    },
+    {
+        "id": 32,
+        "name": "KTH Albanova Nanofabrication Facility",
+        "description": "broad-spectrum, affordable access to top-level nano-fabrication tools and processes. Mechanical and electrical nature, micro-nano-fabrication, nano-pattering-etching systems."
+    },
+    {
+        "id": 33,
+        "name": "KTH Electrum Lab",
+        "description": "lectrum is part of the national network for micro- and nano-fabrication Myfab. Micro-nanoelectronics."
+    },
+    {
+        "id": 34,
+        "name": "KTH Fusion Plasma Device EXTRAP T2R",
+        "description": "produces a high energy density ionized gas – plasma – utilizing the method of magnetic confinement. Materials characterization, Plasma."
+    },
+    {
+        "id": 35,
+        "name": "KTH Hultgren Laboratory",
+        "description": "Optical and electron microscopy, Scanning probe microscopy, MS, Hardness measurements, Sample preparation tools for SEM and TEM. Materials"
+    },
+    {
+        "id": 36,
+        "name": "KTH Live-In Lab",
+        "description": "offers full-scale testbeds with everything from apartments in building-exempt premises to a changeable and scalable infrastructure. Design, living lab"
+    },
+    {
+        "id": 37,
+        "name": "KTH Laser Lab",
+        "description": "offers support for researchers in academia and industry across multiple disciplines which employ laser light-matter interaction for material characterisation, modification and fabrication processes. Characterization, Laser, Materials, Production 4.0"
+    },
+    {
+        "id": 38,
+        "name": "KTH Molecules and Materials at Interfaces Lab (2MILab)",
+        "description": "Adsorbed layer characterisation, Surface tension/contact angle, Atomic force microscopy, Porosimetry/surface area. Materials characterization."
+    },
+    {
+        "id": 39,
+        "name": "KTH Odqvist Lab for Experimental Mechanics",
+        "description": "wind tunnels, anechoic and reverberant acoustic chambers, and a broad range of test equipment and measurement systems for solid and fluid materials. Engineering mechanics, Materials."
+    },
+    {
+        "id": 40,
+        "name": "KTH PDC Centre for High-Performance Computing",
+        "description": "provides high-performance computing (HPC) services for academic and business/industrial research. PDC's services include HPC systems for performing computations and simulations (as well as pre- and post-processing of data), short- and long-term data storage, and assistance from application and systems experts. HPC"
+    },
+    {
+        "id": 41,
+        "name": "KTH Sustainable Power Lab (SPL)",
+        "description": "Electric machines and drives lab. Electric switching lab. EMC lab. Flexible lab power supply platform. High voltage and insulation materials lab. Photovoltaic power lab. Power electronics lab. Real time simulation lab. Educational power lab. Electrical, Materials characterization, renewable energy, smart grids."
+    },
+    {
+        "id": 42,
+        "name": "KTH Swedish Aerospace Physiology Centre (SAPC)",
+        "description": "support research, development and teaching that may act to improve medical safety during manned flights. Safety, space technology, misc. health."
+    },
+    {
+        "id": 43,
+        "name": "UPC Advanced Broadband Communications Centre (CCABA)",
+        "description": "eference centre on 5G & Beyond communications systems. 5G leader. All things required for Internet of Things (IoT), data analytics, communications, Electronics/Telecommunications."
+    },
+    {
+        "id": 44,
+        "name": "UPC Barcelona Research Centre in Multiscale Science and Engineering",
+        "description": "dedicated to research, development and innovation in the fields of micro and nanoengineering, nanotechnology and nanoscience, among others. Biology, Characterization, Electrical properties, Electronics, Materials, Micro and nanoengineering, nanotechnology and nanoscience."
+    },
+    {
+        "id": 45,
+        "name": "UPC Biomaterials, Biomechanics and Tissue Engineering (BBT)",
+        "description": "The BBT’s main scientific goal is the development of biomaterials for tissue and organs regeneration/functional repair, from a basic scientific approach to an applied point of view, by transferring the generated knowledge to bio companies and hospitals. Microscopy, Mechanical characterisation, Chemical and structural characterisation, Physical characterisation, Heat and Surface treatments, Electrochemical characterisation, Biological Characterisation, Animal studies and Histological characterisation, Forensic engineering, Data processing and analysis, Technical consultancy "
+    },
+    {
+        "id": 46,
+        "name": "UPC Centre for Advanced Technologies in Mechanics",
+        "description": "Acoustic laboratory:Mechanical dynamics laboratory:Structures laboratory. Acoustics, materials mechanics, mechanical dynamics, stress tests, structures."
+    },
+    {
+        "id": 47,
+        "name": "UPC Centre for Sensors, Instruments and Systems Development (CD6)",
+        "description": "operates in the field of Optical Engineering. Atomic Force Microscope (AFM).Binocular Auto Refractometer.Colorimeter.Confocal and interferometric profilometer (to measure confocal and interferometric profiles). Electronics / Telecommunications, technological applications for health."
+    },
+    {
+        "id": 48,
+        "name": "UPC Centre for Technological Innovation in Static Converters and Activations (CITCEA)",
+        "description": "specialized in power electronics and its applications. Electrical, Smart grids."
+    },
+    {
+        "id": 49,
+        "name": "UPC Centre for Technological Risk Studies (CERTEC);Fire computation simulator",
+        "description": "research and education in the various fields of risk and safety. Fire computation simulator, observation and modelling."
+    },
+    {
+        "id": 50,
+        "name": "UPC CRAAX Lab - Advanced Network Architectures Lab",
+        "description": "lecturers and researchers from the Computer Architecture Department. City simulator to test artificial intelligence calculations for emergency responses. Computer science, electronics/Telecomunications."
+    },
+    {
+        "id": 51,
+        "name": "UPC Electromagnetic compatibility testing and measurement",
+        "description": "The group focuses its activity on electromagnetic compatibility (EMC) innovation projects for companies. It therefore has a fully equipped laboratory for assessing, testing and measuring electronic equipment. It also has all the hardware and software resources necessary for the development of numeric simulation projects in EMC. The expertise of GCEM in the fields of electromagnetic compatibility and electrical safety enables it to provide companies with testing, assessment and training services, all with the support of its own personnel and facilities. Characterization. Electromagnetic compatibility."
+    },
+    {
+        "id": 52,
+        "name": "UPC Expandable Seafloor Observatory (OBSEA)",
+        "description": "It is connected to the coast by an energy and communications mixed cable. Provides an uninterrupted power supply to the scientific instruments. Offers a high bandwidth communication link. Real time data is available and problems encountered in battery powered systems are avoided. Observation and modelling."
+    },
+    {
+        "id": 53,
+        "name": "UPC Heat and Mass Transfer Technological Centre (CTTC)",
+        "description": "Thermal Systems, Solar Energy development and Aerodynamics and CFD&HT.  mathematical formulation, numerical resolution and experimental validation of fluid dynamics and heat and mass transfer phenomena. Sustainable technologies."
+    },
+    {
+        "id": 54,
+        "name": "UPC Institute for River Dynamics and Hydrological Engineering (FLUMEN)",
+        "description": "research activities, consulting, training and technology transfer in relation to hydrology and river dynamics. Numerical and physical modelling of river dynamics and hydrology, Hydraulic laboratory,Panels to simulate river or city models, Canal control systems"
+    },
+    {
+        "id": 55,
+        "name": "UPC Institute of Robotics and Industrial Informatics",
+        "description": "To promote fundamental research in Robotics and Applied Informatics, To cooperate with the community in industrial technological projects, and To offer scientific education through graduate courses. Multimedia, Robotics"
+    },
+    {
+        "id": 56,
+        "name": "UPC Laboratory of Applied Bioacoustics (LAB)",
+        "description": "investigates sound production and reception in animals, including man, the biological acoustically borne information transfer and its propagation in elastic media. Bioacoustics also refers to the organs of hearing and to the sound production apparatus, as well as to the physiological and neurophysiological processes by which sounds are produced, received and processed. Furthermore, bioacoustics attempts to understand the relationships between the features of the sounds an animal produces and the nature of the environment in which they are used, as well as the functions they are designed to serve. Sustainable technologies."
+    },
+    {
+        "id": 57,
+        "name": "UPC Laboratory of Technology of Structures & Materials 'Lluís Agulló' (LATEM)",
+        "description": "centre of excellence for the characterisation of construction materials (such as concrete, brick, steel, wood, composites or innovative materials), materials chemistry, and large-scale structural testing and monitoring. Sustainable technologies."
+    },
+    {
+        "id": 58,
+        "name": "UPC Maritime Aggregated Research Hydraulic Infrastructures (MARHIS)",
+        "description": "a unique distributed research infrastructure in the hydraulic engineering field, placed under the aegis of the Spanish Ministry of Economy and Business (MEE). It aims to increase the efficiency and capability of Spanish numerical, experimental and field facilities for applications to coastal, harbour, offshore engineering and the many interactions between structures and marine climatic factors. Sustainable technologies."
+    },
+    {
+        "id": 59,
+        "name": "UPC NanoSat Lab",
+        "description": "development of nano-satellite missions as its main activity, the lab is focused on the exploration of innovative small spacecraft system concepts and developing and integrating subsystems and payloads for Earth Observation. The lab's industry-grade equipment allows for the testing and qualifying of nano-satellite systems in space conditions (up to 6U). In addition, two ad-hoc ground stations have been installed to operate the launched missions. Space, electronics/telecommunications."
+    },
+    {
+        "id": 60,
+        "name": "UPC Remote Sensing Laboratory (RSLab)",
+        "description": "Active Microwave Remote Sensing, Passive Microwave Remote Sensing, and Optical Remote Sensing, each one with their own staff and resources. Obervation and modelling."
+    },
+    {
+        "id": 61,
+        "name": "UPC Renewable Electrical Energy Systems (SEER)",
+        "description": "Power generation based on renewable energies, mainly wind and solar. Grid integration of distributed generation systems. Exploitation of energy storage systems in electrical networks. Active, flexible and intelligent electrical networks. Power quality and energy efficiency improvement. Advanced control of electrical systems. Electrical, renewable energy, smart grids."
+    },
+    {
+        "id": 62,
+        "name": "Grenoble House of Creation and Innovation (MaCI)",
+        "description": "transdisciplinary projects in research-experimentation, research-creation and research-action in the arts, humanities, social sciences, life sciences and health. Studying the human and societal challenges of innovation and creation, in areas such as energy, the environment, health, digital technology or even culture. Inventing new languages and new practices, thanks to the power of imagination, culture, and the arts. Hybridizing experimentation methods and tools platforms, which are key instruments of the dynamics of social and organizational innovation, Design."
+    },
+    {
+        "id": 63,
+        "name": "Grenoble Distributed Network Production of Energy (PREDIS)",
+        "description": "distributed energy and smart grids. More specifically, it is a demonstration tool on the smart management of the energy representing physical energy networks as similar as possible to actual networks. This tool makes it possible to connect various modes of decentralised energy production to different uses through an expert monitoring system. electrical, living lab, renewable energy, smart grids."
+    },
+    {
+        "id": 64,
+        "name": "Grenoble Esynov: The smart and communicating systems platform",
+        "description": "Esynov is a technological platform at the service of companies. It was created within the Grenoble INP – Esisar engineering school in Valence, and it carries out technology transfer actions for the benefit of companies in the fields of electromagnetic compatibility (EMC), radiofrequency, embedded systems, and cybersecurity. Electronics/Telecommunications."
+    },
+    {
+        "id": 65,
+        "name": "Grenoble Informatics Laboratory (LIG)’s Living Lab DOMUS",
+        "description": "Situated in UGA's House of creation and innovation (MaCI), the Domus platform is a set of spaces dedicated to the experimental study of the digital and human ecosystem. Automatic processing of language, data sciences, human-machine interaction, living lab, robotics IoT."
+    },
+    {
+        "id": 66,
+        "name": "Grenoble INP-CMTC: the materials characterisation centre",
+        "description": "fully staffed unit for physic-chemical and microstructural characterisation at various scales and for high-performance scientific imaging, serving the materials community. Micro/nan0, characterization, materials, electron microscopy, sample preparation."
+    },
+    {
+        "id": 67,
+        "name": "Grenoble GRICAD Grenoble Alpes Recherche;High-performance computing and data Infrastructure",
+        "description": "is a Research Support Unit whose mission is to support the scientific communities of the Grenoble site in all their problems concerning research data, artificial intelligence, and intensive computing. It offers several platforms (storage, HPC, AI, Gitlab, Jupyter) to meet the needs of the research community. AI, data processing, HPC."
+    },
+    {
+        "id": 68,
+        "name": "Grenoble Institute of Earth Sciences (ISTerre)",
+        "description": "focuses primarily on the physical and chemical study of the planet Earth. By combining observations of natural objects, experimentation, and the modelling of complex phenomena, ISTerre strives toward a deeper understanding of Earth's major internal systems. Observation and modelling. "
+    },
+    {
+        "id": 69,
+        "name": "Grenoble Institute of Environmental Geosciences (IGE)",
+        "description": "The IGE conducts research on climate and the anthropization of our planet by combining glaciology, hydrology, oceanography, atmospheric and environmental sciences, inter and transdisciplinary sciences conducted with the SHS and/or socio-economic actors. Observation and modelling."
+    },
+    {
+        "id": 70,
+        "name": "Grenoble Interuniversity Centre for Microelectronics and Nanotechnologies (CIME Nanotech)",
+        "description": "joint research and education facilities dedicated to microelectronics and nanotechnology. The mission of the centre is to offer state-of-the-art facilities to support research and education in the fields of integrated devices for nanoelectronics and systems, biochips, integrated circuits design, nanocaracterisation, smart devices, sensors and actuators, MEMS and NEMS, hyperfrequency and guided optics. Characterization, Materials, nanoelectronics."
+    },
+    {
+        "id": 71,
+        "name": "Grenoble Laboratory of Pulp and Paper Science and Graphic Arts (LGP2);Papermaking Process Engineering Laboratory",
+        "description": "LGP2 research focuses on plant biomass transformation and recovery operations such as biorefinery and the development of bio-based materials (paper, cardboard, composites, films, nonwovens) as well as printing processes for functionalization of surfaces. The lab studies processes that save energy and raw materials and implement green chemistry for functional materials. The work is based on the development or adaptation of multi-scale characterisation tools. Biorefinery, Characterization, development of bio-based materials, materials, technological applications for health."
+    },
+    {
+        "id": 72,
+        "name": "Grenoble National Laboratory of Intense Magnetic Fields (LNCMI)",
+        "description": "the LNCMI offers routinely static magnetic fields of up to 35 T at its Grenoble site (LNCMI-G) and pulsed magnetic fields of up to 90 T in a non-destructive manner (and 180 T semi-destructively) at its Toulouse site (LNCMI-T).  Magnetic fields."
+    },
+    {
+        "id": 73,
+        "name": "Grenoble OPE)N(RA;Open platform for functional characterisation",
+        "description": "mission is to pool laboratory resources to optimize their use, allow Federation of Micro and Nanotechnologies (FMNT) partners to access a wider variety of equipment and the expertise of managers, and to offer a centralised access to external users. Biology, electrical, electromechanic, materials, microwave, multi-physical, spintronics, ultra-fast signals."
+    },
+    {
+        "id": 74,
+        "name": "Grenoble Scientific and Technical Centre for Building (CSTB)",
+        "description": "a systemic approach that integrates all the issues which are essential to buildings, neighbourhoods and cities: sociological, economic, health and comfort, environment and energy, and safety. It also supports stakeholders in their digital transformation to optimize their activities and projects by relying on building information modelling (BIM) and new technologies. Materials, design, characterization, sustainable technologies."
+    },
+    {
+        "id": 75,
+        "name": "Grenoble Systems Manufacturing Academics Resources Technologies (S.mart) Grenoble Alpes",
+        "description": "of virtual and augmented reality, of rapid prototyping and metal additive manufacturing, but also of plastic, of robotics, of automated systems, of information systems for companies (MES, ERP, APS), of mechanical production, of machining centres (CU 5-axis), plastic injection, Laser cutting. Information systems, laser cutting, plastic injection, production 4.0, robotics and automated systems."
+    },
+    {
+        "id": 76,
+        "name": "Grenoble TEC21;Biomechanics",
+        "description": "he Biomechanics platform is dedicated to the study of mechanical interactions in biological systems, from cell, to tissue. The objects of study relate to biophysical phenomena such as adhesion, migration, cell growth and morphology, particularly in relation to fluid dynamics. Biomechanics."
+    },
+    {
+        "id": 77,
+        "name": "Grenoble TEC21;Environment and risks",
+        "description": "The platform is dedicated to the study of natural gravity phenomena such as mudslides, avalanches, debris flows or granular and sedimentary flows, but also to the characterisation of the mechanical behaviour of materials, structures and works under strong mechanical constraints. and/or recurring. The study scales go from grain to meso-structure. Observation and modelling."
+    },
+    {
+        "id": 78,
+        "name": "Grenoble The Grenoble Hydraulic Machine Research and Testing Centre (CREMHyG)",
+        "description": "mission is to make a scientific and technical contribution to the development of turbomachines. CREMHyG is more particularly involved in the study of smart grids system including hydro, dam turbine-pumps and the harmful effects of cavitation and unsteady flow on their performance. Electrical, Renewable energy, smart grids."
+    },
+    {
+        "id": 79,
+        "name": "Grenoble TIMC lab 'Translational Research and Innovation in Medicine and Complexity'",
+        "description": "brings together scientists and clinicians around the use of computer science and applied mathematics for the understanding and control of normal and pathological processes in biology and health. Animal experimentation, computational biology."
+    },
+    {
+        "id": 80,
+        "name": "Grenoble Upstream Technological Platform (PTA)",
+        "description": "offers the technical capabilities needed to cover a wide range of projects in nanosciences and micro- nanotechnologies: complementary methods and equipment facilities for lithography, deposition or etching enable reliable integration of nano-objects and nano-materials or patterning of thin layers in the nanometric range. Characterization, nano-materials, MEMS NEMS, magnetism, materials, nanoelectronics, photonics, spintronics."
+    },
+    {
+        "id": 81,
+        "name": "Grenoble Vision-R platform",
+        "description": "It includes a set of premises and technical means dedicated to experiments in design sciences. It prefigures the design office of the future. software and device solutions, design. visualisation and interaction"
+    },
+    {
+        "id": 82,
+        "name": "Ulisboa Animal Facility",
+        "description": "dedicated to the maintenance of both laboratory and wild animals.a wide range of animals such as laboratory mice, but also wild small mammals, crayfishes, fishes, amphibians, and reptiles. Animal experimentation."
+    },
+    {
+        "id": 83,
+        "name": "Ulisboa Atomic Force Microscopy and Related Techniques (AFMaRT) lab",
+        "description": "dedicated to the exploration of the Nanoworld.matter physics, including soft matter, molecular biology, fluidics, magnetism, tribology and several other domains, at the nanoscale. Biology, fluids, magnetism, matter physics, nanomaterials, soft matter."
+    },
+    {
+        "id": 84,
+        "name": "Ulisboa Biosafety Level 3 Facility",
+        "description": "specifically dedicated to research involving biological pathogens of level 3 security. It was designed to minimize the risk of personnel and environmental exposure to potentially hazardous agents according to European and Portuguese legislation. All users must undergo specific biosafety level 3 training and must follow strict rules and guidelines while working in the facility. Study of pathogens, misc health."
+    },
+    {
+        "id": 85,
+        "name": "Ulisboa Bioterium of the Faculty of Pharmacy of ULisboa",
+        "description": "Faculty of Veterinary Medicine de Medicina is a unit prepared to house mainly mice, rats and rabbits for basic and applied research. Animal experimentation."
+    },
+    {
+        "id": 86,
+        "name": "Ulisboa Echography small animal room",
+        "description": "Room with two echography machines as equipment for abdominal, cardiac, and other soft tissues exam. Animal experimentation."
+    },
+    {
+        "id": 87,
+        "name": "Ulisboa Electron Microscopy Laboratory (MicroLab)",
+        "description": "Electronic Microscopy Laboratory of Instituto Superior Técnico, a unit specialized in providing services and support to the scientific community in the characterisation of materials through scanning and transmission electron microscopy techniques. Materials characterization."
+    },
+    {
+        "id": 88,
+        "name": "Ulisboa Electron Probe Micro Analyser (EPMA) Lab",
+        "description": "electron microprobe is to generate quantitative and qualitative chemical analyses of any material that is stable under the electron beam and under high vacuum. Such materials include minerals, glasses, ceramics, and metals/alloys. Observation and modelling."
+    },
+    {
+        "id": 89,
+        "name": "Ulisboa Equine Unit of the Teaching Hospital",
+        "description": "Teaching Hospital of FMV-ULisboa, although being also dedicated to the observation of animals referenced by other veterinarians, is qualified to conduct general consultations for equines whose owners do not have regular veterinary assistance. This range covers transversally all the areas of specialty allowing the primary consultation of any health problem of your horse or donkey. Veterinary, misc health."
+    },
+    {
+        "id": 90,
+        "name": "Ulisboa Experimental Psychology Laboratory (PsicExpLab)",
+        "description": "Experimental Psychology Laboratory develops research projects in the areas of memory, language, reading, learning, and social cognition, among others. Experimental psycology, misc health."
+    },
+    {
+        "id": 91,
+        "name": "Ulisboa Fourier-Transform Ion-Cyclotron-Resonance (FT-ICR) and Structural Mass Spectrometry (MS) Laboratory",
+        "description": "exploring biological and biochemical problems at the molecular level through extreme-resolution mass spectrometry. Biochemistry, biology, characterization, proteomics. Biochemistry, biology, characterization, proteomics"
+    },
+    {
+        "id": 92,
+        "name": "Ulisboa Incubation Centre Support Laboratory (Bugworkers)",
+        "description": "Laboratory of microbiology and biotechnology, including flow cytometry, freeze-drying, and fluorescence microscopy Microbiology and biosystems."
+    },
+    {
+        "id": 93,
+        "name": "Ulisboa Laboratory of Optics, Lasers and Systems (LOLS)",
+        "description": "centred on lasers and optics and their integration in systems that can be used in space, astrophysics, biomedicine, defence, security, energy, or industry. Optics."
+    },
+    {
+        "id": 94,
+        "name": "Ulisboa Microscopy Facility (FCUL-MF)",
+        "description": "research and training infrastructure for microscopy and bioimaging. FCUL-MF is also a node of the Portuguese Platform for Bioimage. Biology, characterization, morphology."
+    },
+    {
+        "id": 95,
+        "name": "Ulisboa Ribeira Abaixo (HRA) Field Station",
+        "description": "esearch in ecology, evolution and environmental change. Focused on research and education it encompasses sustainable landscape management and biodiversity conservation, aiming to be a sustainable estate, a prime example of good practices in managing the Montado/Dehesa. Observation and modelling."
+    },
+    {
+        "id": 96,
+        "name": "Ulisboa Robotics, Brain and Cognition Laboratory (RBCog-Lab)",
+        "description": "concentrated research infrastructure in the area of cognitive robotics. The core of the infrastructure consists of robotic platforms (hardware, software, and support crew) which includes one iCub robot, the most sophisticated humanoid robot in the world in terms of degrees of freedom. RBCog-Lab is a unique infrastructure aiming to integrate multidisciplinary findings from neuroscience, developmental psychology, cognitive science, perception and machine learning to design methods and representations based on embodied learning and self-exploration. Multimedia, robotics."
+    },
+    {
+        "id": 97,
+        "name": "Ulisboa Sciences Testing Centre (CTC)",
+        "description": "state-of-the-art infrastructure of 4th generation (Lab 4.0), contributing to the digitization process in life sciences, computational biology and medical, internet of living things, robotised platform, misc health."
+    },
+    {
+        "id": 98,
+        "name": "Ulisboa Shielded room",
+        "description": "Cubic compartment with walls made of mu-metal, meant to insulate the interior from the influence of magnetic fields. It was built to accommodate a magnetoencephalography environment. Magnetoencephalography, shielded room, misc health."
+    },
+    {
+        "id": 99,
+        "name": "Ulisboa Solar campus",
+        "description": "The Solar Campus is a testing ground for characterisation, testing and experimentation of solar energy systems under real conditions. To learn more about its history, projects and activities, Solar radiation electrical, renewable energy."
+    },
+    {
+        "id": 100,
+        "name": "Ulisboa Solar roofs at ULisboa’s Faculty of Sciences",
+        "description": "Photovoltaic Mini-Generation Plant – FCUL's roofs: the largest photovoltaic (PV) plant in the city of Lisbon, installed in 2013 on the roof of the University of Lisbon buildings. Electrical, renewable energy."
+    },
+    {
+        "id": 101,
+        "name": "Ulisboa Stable Isotopes and Instrumental Analysis Facility (LIE-SIIAF)",
+        "description": "In the area of stable isotope analysis, SIIAF is equipped to carry out analyses of the isotopes of carbon, nitrogen, oxygen, hydrogen and sulphur in organic matrices, soils, waters, and atmospheric air. These analytical services are routinely provided, in the form of service provision, with a varying degree of collaboration with the requesting researchers regarding training for sample preparation as well as data interpretation. Atmospheric air, carbon, waters, oxygen, soil, materials."
+    },
+    {
+        "id": 102,
+        "name": "Ulisboa Técnico;Sustainable Campus",
+        "description": "objective is to place Instituto Superior Técnico as a reference in Sustainable Campuses, with significant results in terms of reducing its own energy and water bills and the consumption of other resources, and to involve the entire academic community of students and faculty members into that effort through leveraging existing knowledge on subjects related to climate change, resource efficiency, sustainable mobility, waste management and circular economy. Electrical, living lab, renewable."
+    },
+    {
+        "id": 103,
+        "name": "Ulisboa Thermal Analysis and Calorimetry",
+        "description": "The facility includes different types of calorimetry and thermal analysis equipment, including thermogravimetry, DSCs, Calvet, isothermal, isoperibol and flow calorimeters. Calorimetry and thermal analysis, characterization."
+    }
+]
